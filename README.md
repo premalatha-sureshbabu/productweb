@@ -581,10 +581,11 @@ products.html
 ```
 
 ## Output:
-![OUTPUT](./out1.png)
-![OUTPUT](./out2.png)
-![OUTPUT](./out3.png)
-![OUTPUT](./out4.png)
+![out1](https://user-images.githubusercontent.com/120620842/215159779-7916ebfc-f7ef-4315-ac6d-3098e139b292.png)
+![out2](https://user-images.githubusercontent.com/120620842/215159810-9cb48ac3-2da9-4083-afed-9558f20951a9.png)
+![out3](https://user-images.githubusercontent.com/120620842/215159858-4c1d9058-8e83-41ff-bbc9-d9586cfaa8ae.png)
+![out4](https://user-images.githubusercontent.com/120620842/215159893-c6e8e8a1-37f4-4ff4-b9cc-db6a4a758fec.png)
+
 
 ## HTML Validator
 ![image](https://user-images.githubusercontent.com/120620842/215103465-0dde4eab-c431-49a6-b6e1-7f2085265106.png)
