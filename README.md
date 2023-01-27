@@ -587,7 +587,8 @@ products.html
 ![OUTPUT](./out4.png)
 
 ## HTML Validator
-![Output](./valid.png)
+![image](https://user-images.githubusercontent.com/120620842/215103465-0dde4eab-c431-49a6-b6e1-7f2085265106.png)
+
 
 ## Result:
 The program for designing company website for sale of products using HTML and CSS is completed successfully.
